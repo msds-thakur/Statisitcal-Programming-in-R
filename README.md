@@ -1,2 +1,3 @@
-# Statisitcal-Programming-in-R
-Business Statistics
+# Business Statistics
+
+This course teaches fundamentals of statistical analysis. This includes evaluating statistical information, performing data analyses, and interpreting and communicating analytical results. Students will learn to use the language R for statistical analysis and report generation. Topics covered include descriptive statistics, data display, central tendency, and exploratory data analysis; probability theory; discrete and continuous distributions such as the normal distribution; inference, including confidence intervals and hypothesis testing; correlation; multiple linear regression; contingency tables; and chi-square. Selected contemporary statistical concepts, such as bootstrapping, are introduced to supplement traditional statistical methods.
